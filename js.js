@@ -1,3 +1,3 @@
 function prueba(){
-	alert("oikoite");
+	alert("Prueba");
 }
